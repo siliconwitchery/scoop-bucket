@@ -1,19 +1,19 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/siliconwitchery/superstack-cli/releases/download/v0.0.3/superstack_0.0.3_windows_amd64.zip",
+            "url": "https://github.com/siliconwitchery/superstack-cli/releases/download/v0.0.4/superstack_0.0.4_windows_amd64.zip",
             "bin": [
                 "superstack.exe"
             ],
-            "hash": "4a66ba31b488bbc4d1274460284d63b53bfb3266bca7ed7be88793e96628910f"
+            "hash": "c3d4749ca1fab182af0a11796ad99638032873bd7050052092ce9b16bce70e35"
         },
         "arm64": {
-            "url": "https://github.com/siliconwitchery/superstack-cli/releases/download/v0.0.3/superstack_0.0.3_windows_arm64.zip",
+            "url": "https://github.com/siliconwitchery/superstack-cli/releases/download/v0.0.4/superstack_0.0.4_windows_arm64.zip",
             "bin": [
                 "superstack.exe"
             ],
-            "hash": "b6e2b077c8aad8e1ce5fd5133ed1675d247d99ace2136cc8bdd273d07feef5fc"
+            "hash": "8878a94cf729e0049433da494bf3d9698d29fbd11e8c08379edcef8ff357587d"
         }
     },
     "homepage": "https://github.com/siliconwitchery/superstack-cli",
